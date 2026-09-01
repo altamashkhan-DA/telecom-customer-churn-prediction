@@ -3,6 +3,9 @@
 An end-to-end machine-learning project that predicts whether a telecom customer is likely to churn and serves the result through a Flask web application.
 
 **Author:** Mohammed Altamash Khan
+## Web application
+
+![Telecom Customer Churn Prediction web application](app-screenshot.png)
 
 ## Project results
 
